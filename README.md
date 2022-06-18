@@ -13,13 +13,13 @@ Please only use it as a reference. The quiz and assignments are relatively easy 
 
 ## Program Structure 
 
-### Course 1: [Introduction to Machine Learning in Production](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201)
+<!-- ### Course 1: [Introduction to Machine Learning in Production](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201)
 
 #### Week 1: [Overview of the ML Lifecycle and Deployment](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression)
 1. [Ungraded Lab 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_01.ipynb)
 2. [Ungraded Lab 2](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_02.ipynb)
 3. [Ungraded Lab 3](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_03.ipynb)
-4. [Graded Lab Assignment](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/Week1_Graded_Assignment.ipynb)
+4. [Graded Lab Assignment](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/Week1_Graded_Assignment.ipynb) -->
 
 <!-- #### Week 2: [Naive Bayes](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week2-Naive%20Bayes)
 1. [Ungraded Lab 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week2-Naive%20Bayes/NLP_C1_W2_lecture_nb_01.ipynb)
