@@ -10,3 +10,7 @@ This week covers a quick introduction to machine learning production systems foc
 - List the typical metrics you might track to monitor concept drift.
 
 This folder contains the notes and solutions for all the problems pertaining to the following week. 
+
+## License
+
+DeepLearning.AI makes these slides available for educational purposes. You may not use or distribute these slides for commercial purposes. You may make copies of these slides and use or distribute them for educational purposes as long as you cite DeepLearning.AI as the source of the slides.

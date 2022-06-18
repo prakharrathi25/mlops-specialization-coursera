@@ -1,6 +1,6 @@
 # Week 3: Data Definition and Baseline
 
-This week covers a quick introduction to machine learning production systems focusing on their requirements and challenges. Next, the week focuses on deploying production systems and what is needed to do so robustly while facing constantly changing data.
+Compare the various types of problems to be solved for structured vs. unstructured data and big vs. small data and understand why label consistency is essential and how you can improve it. 
 
 ### Learning Objectives
 - Identify the key components of the ML Lifecycle.
@@ -10,3 +10,7 @@ This week covers a quick introduction to machine learning production systems foc
 - List the typical metrics you might track to monitor concept drift.
 
 This folder contains the notes and solutions for all the problems pertaining to the following week. 
+
+## License
+
+DeepLearning.AI makes these slides available for educational purposes. You may not use or distribute these slides for commercial purposes. You may make copies of these slides and use or distribute them for educational purposes as long as you cite DeepLearning.AI as the source of the slides.
