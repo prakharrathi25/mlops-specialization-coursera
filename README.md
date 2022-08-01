@@ -1,6 +1,6 @@
 # Machine Learning for Production Specialization (MLOps)
 
-<p align="center"><img width="100%" src="specialisation-banner.jpg" /></p>
+<p align="center"><img width="100%" src="images/specialisation-banner.jpg" /></p>
 
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Machine Learning Engineering for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) on Coursera offered by deeplearning.ai. 
 
