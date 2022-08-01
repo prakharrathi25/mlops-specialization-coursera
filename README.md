@@ -13,20 +13,20 @@ Please only use it as a reference. The quiz and assignments are relatively easy 
 
 ## Program Structure 
 
-<!-- ### Course 1: [Introduction to Machine Learning in Production](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201)
+### Course 1: [Introduction to Machine Learning in Production](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201)
 
-#### Week 1: [Overview of the ML Lifecycle and Deployment](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression)
-1. [Ungraded Lab 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_01.ipynb)
-2. [Ungraded Lab 2](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_02.ipynb)
-3. [Ungraded Lab 3](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/NLP_C1_W1_lecture_nb_03.ipynb)
-4. [Graded Lab Assignment](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week1-Sentiment%20Analysis%20with%20Logistic%20Regression/Week1_Graded_Assignment.ipynb) -->
+#### Week 1: [Overview of the ML Lifecycle and Deployment](https://github.com/prakharrathi25/mlops-specialization-coursera/tree/main/Course1/Week1)
+  
+1. [Graded Quiz 1](https://github.com/prakharrathi25/mlops-specialization-coursera/blob/main/Course1/Week1/graded_quiz_1.md)
+2. [Graded Quiz 2](https://github.com/prakharrathi25/mlops-specialization-coursera/blob/main/Course1/Week1/graded_quiz_2.md)
 
-<!-- #### Week 2: [Naive Bayes](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week2-Naive%20Bayes)
-1. [Ungraded Lab 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week2-Naive%20Bayes/NLP_C1_W2_lecture_nb_01.ipynb)
+
+#### Week 2: [Select and Train a Model](https://github.com/prakharrathi25/mlops-specialization-coursera/tree/main/Course1/Week2)
+1. [Graded Quiz 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week2-Naive%20Bayes/NLP_C1_W2_lecture_nb_01.ipynb)
 2. [Graded Lab Assignment](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week2-Naive%20Bayes/Week2_Graded_Assignment.ipynb)
 
 
-#### Week 3: [Word Embeddings](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week3-Word%20Embeddings)
+<!-- #### Week 3: [Word Embeddings](https://github.com/prakharrathi25/natural-language-processing-coursera/tree/master/Course%201/Week3-Word%20Embeddings)
 1. [Ungraded Lab 1](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week3-Word%20Embeddings/NLP_C1_W3_lecture_nb_01.ipynb)
 2. [Ungraded Lab 2](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week3-Word%20Embeddings/NLP_C1_W3_lecture_nb_02.ipynb)
 3. [Ungraded Lab 3](https://github.com/prakharrathi25/natural-language-processing-coursera/blob/master/Course%201/Week3-Word%20Embeddings/NLP_C1_W3_lecture_nb_03.ipynb)
